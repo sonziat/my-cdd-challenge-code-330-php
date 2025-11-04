@@ -1,6 +1,7 @@
 <?php
+
 // Exercice 1 : Écrire "Bonjour le monde"
-echo "Bonjour le monde ";
+echo "Bonjour le monde "."<br>";
 
 // Exercice 2 : Afficher votre prénom
 echo "Marie-Audrey"."<br>";
@@ -25,6 +26,8 @@ echo $date;
 echo "<p>Affiche cette phrase dans un paragraphe</p>"; 
 
 // Exercice 8 : Afficher un message coloré avec HTML + PHP
-echo "<p style="color:bleue">Ceci est un message colore </p>"; 
+echo "<p style=\"color:red\">Ceci est un message colore </p>"; 
+
+?>
 
 ?>
