@@ -9,11 +9,11 @@
 
 ## Objectifs principaux
 
-- 🔹 Apprendre PHP **par la pratique quotidienne**.  
-- 🔹 Comprendre les bases du **langage PHP** et de **MySQL**.  
-- 🔹 Manipuler les **formulaires**, les **fichiers**, les **sessions** et la **validation de données**.  
-- 🔹 Construire un **mini-projet final** : gestion d’utilisateurs avec login et upload.  
-- 🔹 Poser des bases solides avant d’aborder la **POO**, **les APIs** ou **Laravel**.
+🔹 Apprendre PHP **par la pratique quotidienne**.  
+🔹 Comprendre les bases du **langage PHP** et de **MySQL**.  
+🔹 Manipuler les **formulaires**, les **fichiers**, les **sessions** et la **validation de données**.  
+🔹 Construire un **mini-projet final** : gestion d’utilisateurs avec login et upload.  
+🔹 Poser des bases solides avant d’aborder la **POO**, **les APIs** ou **Laravel**.
 
 ---
 
@@ -104,7 +104,7 @@ L’objectif est d’appliquer chaque jour ce que tu apprends pour consolider le
 
 ---
 
-## 💡 Mini-projet final
+## Mini-projet final
 
 > **Application CRUD + Login + Upload**
 
