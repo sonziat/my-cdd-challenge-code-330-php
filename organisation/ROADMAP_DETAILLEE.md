@@ -1,10 +1,10 @@
-# 🗓️ Programme PHP & MySQL – Détail jour par jour (30 jours)
+# Programme PHP & MySQL – Détail jour par jour (30 jours)
 
 Ce guide complète le `README.md` avec des **exercices pratiques** et des **mini-projets progressifs** pour chaque journée.
 
 ---
 
-## 🧩 Semaine 1 – Fondamentaux du PHP
+## Semaine 1 – Fondamentaux du PHP
 
 ### Jour 1 – Introduction & Syntaxe de base
 **Objectifs :** Découvrir la structure d’un fichier PHP.  
@@ -73,7 +73,7 @@ Ce guide complète le `README.md` avec des **exercices pratiques** et des **mini
 
 ---
 
-## 🧠 Semaine 2 – Manipulation de données & formulaires
+## Semaine 2 – Manipulation de données & formulaires
 
 ### Jour 8 – Fonctions sur les tableaux
 **Exercices :**
@@ -131,7 +131,7 @@ Ce guide complète le `README.md` avec des **exercices pratiques** et des **mini
 
 ---
 
-## 🗃️ Semaine 3 – Fichiers, sessions et base de données
+## Semaine 3 – Fichiers, sessions et base de données
 
 ### Jour 15 – Uploads
 **Exercices :**
@@ -181,7 +181,7 @@ Ce guide complète le `README.md` avec des **exercices pratiques** et des **mini
 
 ---
 
-## ⚙️ Semaine 4 – MySQL, CRUD et mini-projet
+## Semaine 4 – MySQL, CRUD et mini-projet
 
 ### Jour 21 – Introduction à MySQL
 **Exercices :**
@@ -269,7 +269,7 @@ Ce guide complète le `README.md` avec des **exercices pratiques** et des **mini
 
 ---
 
-## 📁 Structure suggérée du répertoire
+## Structure suggérée du répertoire
 ```
 /php-apprentissage
 ├── jour01/ ... jour30/
@@ -278,9 +278,9 @@ Ce guide complète le `README.md` avec des **exercices pratiques** et des **mini
 └── README.md
 ```
 
-## ✅ Conseils d’évaluation
+## Conseils d’évaluation
 - Commits clairs : `feat(day-12): include header/footer`  
 - Tests manuels : scénarios d’erreur et de succès  
 - Revue en fin de semaine : récapitulatif + TODO pour la suivante
 
-Bon code ! 💻🚀
+Bon code ! 💻
