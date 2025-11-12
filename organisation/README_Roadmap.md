@@ -1,4 +1,4 @@
-# 🚀 Apprendre PHP & MySQL en 30 Jours
+# Apprendre PHP & MySQL en 30 Jours
 
 ## 🎯 Objectifs du projet
 
@@ -7,7 +7,7 @@
 
 ---
 
-## 🧩 Objectifs principaux
+## Objectifs principaux
 
 - 🔹 Apprendre PHP **par la pratique quotidienne**.  
 - 🔹 Comprendre les bases du **langage PHP** et de **MySQL**.  
@@ -17,9 +17,9 @@
 
 ---
 
-## 🧰 Prérequis & Outils nécessaires
+## Prérequis & Outils nécessaires
 
-### 🧠 Prérequis
+### Prérequis
 Aucun prérequis technique n’est nécessaire, mais il est recommandé d’avoir :
 - Des notions de **HTML/CSS** (pour créer les interfaces des formulaires),
 - Un peu de curiosité et de régularité (30 jours = 30 pas en avant 😉).
@@ -87,7 +87,7 @@ L’objectif est d’appliquer chaque jour ce que tu apprends pour consolider le
 
 ---
 
-## 🧱 Structure recommandée du projet
+## Structure recommandée du projet
 
 ```
 /php-apprentissage
@@ -143,5 +143,5 @@ Ce projet est sous licence **MIT** — libre à toi de le copier, modifier et pa
 
 ---
 
-> 🧩 *« La meilleure façon d’apprendre PHP, c’est d’écrire du PHP. »*  
+> *« La meilleure façon d’apprendre PHP, c’est d’écrire du PHP. »*  
 > — Ce dépôt est ton terrain d’entraînement.
