@@ -1,6 +1,6 @@
-# 💡 Checklist : créer son premier repo Git & GitHub
+# Checklist : créer son premier repo Git & GitHub
 
-## 🧭 1. Préparer son environnement
+## 1. Préparer son environnement
 
 - [ ] Installer **Git**  
   👉 https://git-scm.com/downloads
@@ -19,7 +19,7 @@
 
 ---
 
-## 🪄 2. Créer un dossier de projet local
+## 2. Créer un dossier de projet local
 
 ```bash
 mkdir mon-premier-projet
@@ -31,7 +31,7 @@ git status
 
 ---
 
-## 🧩 3. Faire ton premier commit
+## 3. Faire ton premier commit
 
 ```bash
 git add .
@@ -40,7 +40,7 @@ git commit -m "✨ Premier commit : initialisation du projet"
 
 ---
 
-## ☁️ 4. Créer le repo sur GitHub
+## 4. Créer le repo sur GitHub
 
 1. Va sur https://github.com/new  
 2. Donne un **nom** à ton repo  
@@ -49,7 +49,7 @@ git commit -m "✨ Premier commit : initialisation du projet"
 
 ---
 
-## 🔗 5. Lier ton repo local à GitHub
+## 5. Lier ton repo local à GitHub
 
 ```bash
 git remote add origin https://github.com/tonpseudo/mon-premier-projet.git
@@ -59,14 +59,14 @@ git push -u origin main
 
 ---
 
-## 🧠 6. Vérifie ton repo
+## 6. Vérifie ton repo
 
 - [ ] Va sur ton profil GitHub → ton projet est en ligne 🎉  
 - [ ] Vérifie les fichiers et l’historique des commits
 
 ---
 
-## 🔄 7. Mettre à jour ton repo
+## 7. Mettre à jour ton repo
 
 ```bash
 git add .
@@ -76,7 +76,7 @@ git push
 
 ---
 
-## 🎁 Bonus : bonnes pratiques
+## Bonus : bonnes pratiques
 
 - ✅ Ajoute un `.gitignore`
 - ✅ Mets à jour ton README
