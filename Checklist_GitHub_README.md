@@ -35,7 +35,7 @@ git status
 
 ```bash
 git add .
-git commit -m "✨ Premier commit : initialisation du projet"
+git commit -m "Premier commit : initialisation du projet"
 ```
 
 ---
@@ -70,7 +70,7 @@ git push -u origin main
 
 ```bash
 git add .
-git commit -m "🧱 Ma nouvelle fonctionnalité"
+git commit -m "Ma nouvelle fonctionnalité"
 git push
 ```
 
