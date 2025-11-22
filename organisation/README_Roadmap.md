@@ -118,7 +118,7 @@ Fonctionnalités à implémenter :
 
 ---
 
-## 📚 Pour aller plus loin après ces 30 jours
+## Pour aller plus loin après ces 30 jours
 
 Une fois ce programme terminé, tu peux :
 - 🔸 Apprendre la **Programmation Orientée Objet (POO)** en PHP  
